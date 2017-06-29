@@ -1,0 +1,28 @@
+{
+  "name": "hw14",
+  "version": "1.0.0",
+  "description": "HW 14 WK 18",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwwilsonclt/hw14.git"
+  },
+  "author": "Software by Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwwilsonclt/hw14/issues"
+  },
+  "homepage": "https://github.com/dwwilsonclt/hw14#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.0",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
